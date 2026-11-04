@@ -82,7 +82,7 @@ namespace FinancialCrm
 
         private void button8_Click(object sender, EventArgs e)
         {
-            Close();
+            Application.Exit();
         }
 
         private void button6_Click(object sender, EventArgs e)

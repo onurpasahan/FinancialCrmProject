@@ -80,7 +80,7 @@ namespace FinancialCrm
 
         private void button8_Click(object sender, EventArgs e)
         {
-            Close();
+            Application.Exit();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
